@@ -27,6 +27,10 @@
 
 有恐怖、驚嚇的關卡（突然跳出來的畫面、尖叫聲），也有閃光和畫面震動，可以在「設定」裡調低或關掉。
 
+## 製作
+
+turtlepeer
+
 ---
 
 *A white puppy chases a cake thief across seven chapters, each a different kind of game. Windows only; English is supported.*
